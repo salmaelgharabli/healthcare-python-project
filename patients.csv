@@ -1,0 +1,6 @@
+"Patient_ID",	"Department",	"Wait_Time	
+101				"Emergency"			45
+102				"Cardiology"		20
+103				"Radiology"			60
+104				"Surgery"			15
+105				"Emergency"			90
